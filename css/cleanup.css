@@ -6,11 +6,11 @@ body #wall #tag-2 {
   display: none;
 }
 
-#wall .parent #tag-4 {
+div#wall .parent #tag-4 {
   display: none;
 }
 
-body #wall .parent #tag-5 .slick {
+body div#wall .parent #tag-5 .slick {
   display: none;
 }
 
