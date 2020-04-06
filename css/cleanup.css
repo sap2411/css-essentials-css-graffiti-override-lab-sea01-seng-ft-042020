@@ -6,6 +6,10 @@ body #wall #tag-2 {
   display: none;
 }
 
+body #wall #tag-3.slick {
+  display: none;
+}
+
 body #wall div.parent #tag-4 {
   display: none;
 }
@@ -14,15 +18,15 @@ body #wall div.parent #tag-5 .slick {
   display: none;
 }
 
-body #wall div.parent > div > #tag-7 .slick {
-  display: none;
-}
-
 #wall #tag-6 {
   display: none;
 }
 
-div #wall #tag-3.slick {
+body #wall div.parent > div > #tag-7 .slick {
   display: none;
 }
+
+
+
+
 
