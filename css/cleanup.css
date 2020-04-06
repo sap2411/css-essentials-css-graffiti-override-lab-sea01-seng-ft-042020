@@ -10,7 +10,7 @@ body #wall #tag-2 {
   display: none;
 }
 
-#wall #tag-5 {
+body div #wall .parent #tag-5 .slick {
   display: none;
 }
 
