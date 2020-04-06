@@ -6,11 +6,11 @@ body #wall #tag-2 {
   display: none;
 }
 
-body div#wall #tag-3  {
+body div#wall div#tag-3   {
   display: none;
 }
 
-body #wall div.parent #tag-4 {
+body div#wall div.parent div#tag-4 {
   display: none;
 }
 
